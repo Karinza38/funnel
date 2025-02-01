@@ -93,7 +93,7 @@
     "jstz": "^2.1.1",
     "leaflet": "^1.7.1",
     "markmap-lib": "^0.17.0",
-    "markmap-view": "^0.17.0",
+    "markmap-view": "^0.18.8",
     "mermaid": "^10.9.3",
     "muicss": "^0.10.3",
     "pace-js": "^1.2.4",
