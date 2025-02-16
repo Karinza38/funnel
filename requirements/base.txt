@@ -92,7 +92,7 @@ click==8.1.7
     #   rq
 crontab==1.0.1
     # via rq-scheduler
-cryptography==43.0.1
+cryptography==44.0.1
     # via -r requirements/base.in
 cssmin==0.2.0
     # via baseframe
