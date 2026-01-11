@@ -146,3 +146,6 @@ wheel==0.44.0
 # The following packages are considered to be unsafe in a requirements file:
 # pip
 # setuptools
+aiohttp>=3.13.3 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
