@@ -140,7 +140,7 @@ wcwidth==0.2.13
     # via
     #   prompt-toolkit
     #   reformat-gherkin
-wheel==0.44.0
+wheel==0.46.2
     # via pip-tools
 
 # The following packages are considered to be unsafe in a requirements file:
